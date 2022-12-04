@@ -1,0 +1,16 @@
+export const adamSandler = require('./adamSandler.png')
+export const russellHoward = require('./russellHoward.png');
+export const jackBlack = require('./jackBlack.png');
+export const mikeMyers = require('./mikeMyers.png');
+export const chrisRock = require('./chrisRock.png');
+export const jimCarrey = require('./jimCarrey.png');
+export const kevinHart = require('./kevinHart.png');
+export const gabrielIglesias = require('./gabrielIglesias.png');
+export const jerrySeinfeld = require('./jerrySeinfeld.png');
+export const joeyTribbiani = require('./joeyTribbiani.png');
+export const keyAndPeele = require('./keyAndPeele.png');
+export const lonelyIsland = require('./lonelyIsland.png');
+export const phineasAndFerb = require('./phineasAndFerb.png');
+export const robinWilliams = require('./robinWilliams.png');
+export const danielSloss = require('./danielSloss.png');
+export const background = require("./background.png")
